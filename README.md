@@ -7,11 +7,11 @@ This project conducts in-depth analysis to unveil key trends, performance metric
 <br/>
 Objectives :<br/>
 <br/>
-*To analyse time series trends.<br/>
-*To understand geographical flight patterns.<br/>
-*To assess airlines performance metrics.<br/>
-*To analyse flight volume.<br/>
-*To assess weekend and weekdays performance.<br/>
+* To analyse time series trends.<br/>
+* To understand geographical flight patterns.<br/>
+* To assess airlines performance metrics.<br/>
+* To analyse flight volume.<br/>
+* To assess weekend and weekdays performance.<br/>
 <br/>
 Key Findings :<br/>
 <br/>
