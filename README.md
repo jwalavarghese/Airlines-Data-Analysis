@@ -15,21 +15,21 @@ Objectives :<br/>
 <br/>
 Key Findings :<br/>
 <br/>
-Weekdays aggregate to 71% of travels and weekend as 29%.<br/>
-Chicago- Detroit is the most preferred route of travel with 75% load factor.<br/>
-Less than 500 miles has the highest travels of 58k followed by 500-1000 miles with 28k.<br/>
-Delta Airlines is the favorite carrier among all with load fatcor of 81%.<br/>
+* Weekdays aggregate to 71% of travels and weekend as 29%.<br/>
+* Chicago- Detroit is the most preferred route of travel with 75% load factor.<br/>
+* Less than 500 miles has the highest travels of 58k followed by 500-1000 miles with 28k.<br/>
+* Delta Airlines is the favorite carrier among all with load fatcor of 81%.<br/>
 <br/>
 Tools Used :<br/>
 <br/>
-Excel<br/>
-Tableau<br/>
+* Excel<br/>
+* Tableau<br/>
 <br/>
 Recommendations :<br/>
 <br/>
-To increase the load factor, it is recommended to bring in holiday offers, festival offers.<br/>
-It is recommended to implement offers on credit cards in off seasons to attract passengers.<br/>
-Invrease popularity of less travelled routes by offering special offers and attracting by holiday spots.<br/>
+* To increase the load factor, it is recommended to bring in holiday offers, festival offers.<br/>
+* It is recommended to implement offers on credit cards in off seasons to attract passengers.<br/>
+* Invrease popularity of less travelled routes by offering special offers and attracting by holiday spots.<br/>
 <br/>
 Conclusions :<br/>
 <br/>
